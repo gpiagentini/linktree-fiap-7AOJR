@@ -4,10 +4,10 @@ Este projeto é uma aplicação Linktree desenvolvida como parte do trabalho de 
 Estrutura do Projeto
 A estrutura principal do projeto é a seguinte:
 
-assets/: Contém arquivos CSS e outros recursos estáticos.
-components/: Inclui os componentes utilizados na aplicação.
-public/: Diretório para arquivos públicos.
-app.vue: Componente raiz da aplicação.
+- assets/: Contém arquivos CSS e outros recursos estáticos.
+- components/: Inclui os componentes utilizados na aplicação.
+- public/: Diretório para arquivos públicos.
+- app.vue: Componente raiz da aplicação.
 
 ## Configuração do Ambiente
 Antes de iniciar a aplicação, certifique-se de instalar as dependências necessárias.
