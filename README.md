@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
+# Linktree - Trabalho de Front End Engineering (7AOJR)
+Este projeto é uma aplicação Linktree desenvolvida como parte do trabalho de Front End Engineering para a turma 7AOJR da FIAP. A aplicação foi construída utilizando o framework Nuxt.
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Estrutura do Projeto
+A estrutura principal do projeto é a seguinte:
 
-## Setup
+assets/: Contém arquivos CSS e outros recursos estáticos.
+components/: Inclui os componentes utilizados na aplicação.
+public/: Diretório para arquivos públicos.
+app.vue: Componente raiz da aplicação.
 
-Make sure to install dependencies:
+## Configuração do Ambiente
+Antes de iniciar a aplicação, certifique-se de instalar as dependências necessárias.
 
-```bash
-# npm
+``` cmd
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+## Servidor de Desenvolvimento
+Para iniciar o servidor de desenvolvimento e visualizar a aplicação em http://localhost:3000, utilize:
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+``` cmd
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## Build de Produção
+Para construir a aplicação para produção:
 
-Build the application for production:
-
-```bash
-# npm
+``` cmd
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+## Preview
+Para visualizar a build de produção localmente:
 
-```bash
-# npm
+``` cmd
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
